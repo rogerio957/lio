@@ -1,0 +1,192 @@
+
+#EXTM3U
+#EXTINF:-1,Web Tv Cine Live
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w798596953.m3u8
+#EXTINF:-1,Tv Aracati HD Live
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CHANNEL 1 Live
+https://stmv1.srvif.com/channel1/channel1/chunklist_w803585326.m3u8
+#EXTINF:-1,Tv Nova Play Live
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1488938933.m3u8
+#EXTINF:-1,HITS TV Live	
+https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w329601784.m3u8
+#EXTINF:-1,TV CARIOCA.NET	
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1778615550.m3u8
+#EXTINF:-1,Tv J.SID Live
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Retro Cartoon Live
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1345083128.m3u8
+#EXTINF:-1,TV Rabelo Live
+https://cdn.jmvstream.com/w/AVJ-10593/playlist/chunklist.m3u8
+#EXTINF:-1,Classique Western Tv Live
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w2012863529.m3u8
+#EXTINF:-1,Bons Tempos Live	
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w740432206.m3u8
+#EXTINF:-1,Classique TV 2 Live
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w982228695.m3u8
+#EXTINF:-1,Tela Viva Live
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1067039858.m3u8
+#EXTINF:-1,QTAL CHANNEL Live
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w2113239866.m3u8
+#EXTINF:-1,Rede Serra Live
+https://serv3.videovox.pw/ivonildoferreiradasilva1063/ivonildoferreiradasilva1063/chunklist_w1002276204.m3u8
+#EXTINF:-1,Run Time Comédia Live
+https://stream.ads.ottera.tv/cl/c1939b50-8c50-4bcb-bce8-1488384d3abd/1280x720_3071200_0_false.m3u8
+#EXTINF:-1,TV Series	
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w627535334.m3u8
+#EXTINF:-1,CinePIX TV Live
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1151113499.m3u8
+#EXTINF:-1,Tv Jornada Nas Estrelas (Star Trek
+https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w192135302.m3u8
+#EXTINF:-1,SIC Live	
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1,WOW TV vivo	
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1938660268_b1500000_slen.m3u8
+#EXTINF:-1,Canal 29 Ao Vivo
+https://stmv1.srvif.com/canal29/canal29/chunklist_w501938242.m3u8
+#EXTINF:-1,TRT 1 HD ao vivo
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,Porto Canal Live	
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w937858015.m3u8
+#EXTINF:-1,Cosmos Tv Live
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8	
+#EXTINF:-1,Direto RTP	
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?token=1657684800_b3b9e5817c5056305210378cb423460c89c790ef
+#EXTINF:-1,Direto TVI
+https://video-auth2.iol.pt/live_tvi/live_tvi/edge_servers/tvi-480p/chunks.m3u8?nimblesessionid=434399912&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDE6MTI6NiBQTSZoYXNoX3ZhbHVlPXVYMHNicmRKc3ZHektiV1YvdEJRZ3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNmEyMTlkZi05OTQzLTQ5OTUtODMwMC00YzY3OTU1ZDVjZjU=
+#EXTINF:-1,CNN Direto
+https://video-auth8.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=368294986&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDE6MTI6NiBQTSZoYXNoX3ZhbHVlPXVYMHNicmRKc3ZHektiV1YvdEJRZ3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNmEyMTlkZi05OTQzLTQ5OTUtODMwMC00YzY3OTU1ZDVjZjU=
+#EXTINF:-1,Direto TVI 24
+https://video-auth4.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=294848236&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDE6MTI6NiBQTSZoYXNoX3ZhbHVlPXVYMHNicmRKc3ZHektiV1YvdEJRZ3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNmEyMTlkZi05OTQzLTQ5OTUtODMwMC00YzY3OTU1ZDVjZjU=
+#EXTINF:-1,Canal Andorra 	
+https://videos.rtva.ad/live/web/chunklist_w1780954466.m3u8
+#EXTINF:-1,Tv Series 7	
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w874428000.m3u8
+#EXTINF:-1,Tv Séries 5
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w2142063565.m3u8
+#EXTINF:-1,Tv Series 6	
+https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1031968117.m3u8
+#EXTINF:-1,Player Web Tv Agua Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w574813587.m3u8
+#EXTINF:-1,Sportv 1 Pt
+https://hu8gp9m9ck8jbvbj.cdnexpress11.net:8443/hls/b5r01up6xuiica.m3u8?s=NQc9ZXCGM8CiOhtwlThjcg&e=1657572075
+#EXTINF:-1,CNN Portugal
+https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=208616139&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDE6MzI6NiBQTSZoYXNoX3ZhbHVlPW5xcUpROWFGU0NaM3Zsdm9MUTNXUEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01OGY4OGY0ZS0xNjhhLTQ1NTctODY1Ny1jY2RjNGZhNGI4NzA=
+#EXTINF:-1,Dubai Sports 1	
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Abu Dhabi Sports 1	
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Sharjah Sports em direto	
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fox Sports News	
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
+#EXTINF:-1,RedBull TV em direto
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,SIC Notícias
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1,Porto Canal
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1378128092.m3u8
+#EXTINF:-1,All Sports em direto	
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1601078761.m3u8
+#EXTINF:-1,SIC em direto	
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
+#EXTINF:-1,Tvi em direto	
+https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=208627178&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6MTc6OCBQTSZoYXNoX3ZhbHVlPTVqaldGQlIrVWN4cTRQN2ZkL0dZRVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zNDkxODVmNC0zOTdjLTRhYzItYTkyZC05MjdmYjlkZTE0MTk=
+#EXTINF:-1,A&E 
+https://aipaipara.xyz/ae/tracks-v1a1/mono.m3u8?token=84c358d1e00eb9aa8d25061af54b03c2b33d19c2-439bc49bfc6e3ecdecac0886e225d696-1657729042-1657721842
+#EXTINF:-1,Fox Sports
+https://aipaipara.xyz/espn4/tracks-v1a1/mono.m3u8?token=53fda154e3fe9ec770523e9d633fadc0a85ffa14-22b8367dee99a16a97d4ae2b63f05b25-1657729386-1657722186
+#EXTINF:-1, HBO 2
+https://aipaipara.xyz/hbo2/tracks-v1a1/mono.m3u8?token=93a7186d2fc312c654205c56d0a34c44a584f161-4f88637b3b60f89e3fd805010ad12315-1657729488-1657722288
+#EXTINF:-1, HBO Xtreme
+https://aipaipara.xyz/hbo-xtreme/tracks-v1a1l1/mono.m3u8?token=5def624bc0c5e1af126508edbafe7f6c3cbdb07e-f4d73eeb129fb976d852b3b8f008c2f2-1657729616-1657722416
+#EXTINF:-1,Megapix
+https://aipaipara.xyz/megapix/tracks-v1a1/mono.m3u8?token=cca3cd54cf611486c97a684f6ebb787b639e89c5-7f443fe9be4dfcb5faf3a1e45003b1b4-1657729705-1657722505
+#EXTINF:-1, Space
+https://aipaipara.xyz/space/tracks-v1a1l1/mono.m3u8?token=24f8a4c7b038a043f9e34990643afe314ad47552-af310bb9070ab1f1f0d3410ad4391309-1657729957-1657722757
+#EXTINF:-1,Telecine Action
+https://aipaipara.xyz/telecine-action/tracks-v1a1/mono.m3u8?token=614ae65d472b233af9ba95b6360916988599ca7f-3e102f46248c7328d95fe00151d2ac18-1657730344-1657723144
+#EXTINF:-1,SporTV 
+https://aipaipara.xyz/sportv/tracks-v1a1/mono.m3u8?token=2cede8af4542644e8f9a8e8e64534a0b67575619-bc8167cf6ec7c29d2a94ee06ce51b116-1657730449-1657723249
+#EXTINF:-1,SporTV 2
+https://aipaipara.xyz/sportv2/tracks-v1a1/mono.m3u8?token=32b40ba616b76a1bc047832919daefd707209691-4d511020538b03f55494dbfe005dcde3-1657730586-1657723386
+#EXTINF:-1,SporTV 3 
+https://aipaipara.xyz/sportv3/tracks-v1a1/mono.m3u8?token=926c57109a9e6392e88517d3dd623dfa530652ad-4069f9da02f16c5fb117f5c354667d66-1657730679-1657723479
+#EXTINF:-1,Syfy
+https://aipaipara.xyz/syfy/tracks-v1a1/mono.m3u8?token=dfbbd762b04afffc285b013de6191547b2e19960-b4b051ee732243e4eb172f097f45c6dc-1657730855-1657723655
+#EXTINF:-1,Telecine Action
+https://aipaipara.xyz/telecine-action/tracks-v1a1/mono.m3u8?token=de978cf3694eca79f68bfa42a6fd92a3085f62a6-baa0136af08353e6751194528cfd7a88-1657730982-1657723782
+#EXTINF:-1,Telecine Pipoca
+https://aipaipara.xyz/telecine-pipoca/tracks-v1a1/mono.m3u8?token=832381a2727fbf7dd14bb67d2dd92adccc677073-6e73450f71e260a1ce0149450824e348-1657731071-1657723871
+#EXTINF:-1,ESPN 
+https://aipaipara.xyz/espn/tracks-v1a1/mono.m3u8?token=a5334fe974fca72b47aba3149d819e52cb6155c0-07d624f31a4e79b8559dbb0fabc4fe47-1657731357-1657724157
+#EXTINF:-1,Sport tv1
+https://hu8gp9m9ck8jbvbj.cdnexpress11.net:8443/hls/b5r01up6xuiica.m3u8?s=2kpwBlMZN2hU4pRJ1EQtxA&e=1657747172
+#EXTINF:-1,A Bola
+https://2202lw.janjua.pw:8088/live/agrrrr/playlist.m3u8?vidictid=191863137271&id=97909&pk=36a4ba46c4002e842922bdbc4cedc930a02d196b67eddd11a307e8418ca7dd2eae727180724c2d94cec0cf507b0a85774ee51ca0ce973e189d03c03936fe0cfa
+#EXTINF:-1,CMTV
+https://2206.janjua.pw:8088/live/oscaralhinhos/playlist.m3u8?vidictid=191865717458&id=107756&pk=36a4ba46c4002e842922bdbc4cedc930a02d196b67eddd11a307e8418ca7dd2eae727180724c2d94cec0cf507b0a85774ee51ca0ce973e189d03c03936fe0cfa
+#EXTINF:-1,Sport tv 1
+https://hu8gp9m9ck8jbvbj.cdnexpress11.net:8443/hls/b5r01up6xuiica.m3u8?s=pKXnvxsTE0NA0hBTGwe7hA&e=1657747975
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
